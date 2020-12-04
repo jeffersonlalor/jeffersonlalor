@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**jeffersonlalor/jeffersonlalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Hi! I'm Jeff! ✌🏼</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://i.imgur.com/V7BdhK6.png" width="150">
+
+<h3>About me </h3>
+
+<p>📱 iOS Developer at <a href="http://www.brq.com/">BRQ Digital Solutions</a>.</p>
+
+<p>💻 I'm passionate about music and technology.</p>
+
+<p> Fanboy at Apple ecosystem.</p>
+
+<p>📍 Live in Manaus, Amazonas.</p>
+
+
+
+<h3>Contact</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/jeffersonlalor/">
+    <img src="https://img.shields.io/badge/jeffersonlalor-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jeffersonlalor19@gmail.com">
+  	<img src="https://img.shields.io/badge/jeffersonlalor19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
