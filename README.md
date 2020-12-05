@@ -1,6 +1,6 @@
 
 
-<h2>Hi! I'm Jeff! ✌🏼</h2>
+<h2><i>"Honesty in small things is not a small thing."</i> #CleanCode ✌🏼</h2>
 
 <img align='right' src="https://i.imgur.com/V7BdhK6.png" width="150">
 
@@ -17,6 +17,8 @@
 
 
 <h3>Contact</h3>
+
+
 
 <p>
   <a href="https://www.linkedin.com/in/jeffersonlalor/">
