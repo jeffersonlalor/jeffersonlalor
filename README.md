@@ -2,7 +2,7 @@
 
 <h2><i>"Honesty in small things is not a small thing."</i> #CleanCode ✌🏼</h2>
 
-<img align='right' src="https://i.imgur.com/V7BdhK6.png" width="150">
+<img align='right' src="https://i.imgur.com/V7BdhK6.png" width="250">
 
 <h3>About me </h3>
 
