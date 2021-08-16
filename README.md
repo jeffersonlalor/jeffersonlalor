@@ -6,7 +6,7 @@
 
 <h3>About me </h3>
 
-<p>📱 iOS Developer at <a href="http://www.brq.com/">BRQ Digital Solutions</a>.</p>
+<p>📱 iOS Developer at <a href="https://stormgroup.com.br">Storm Group</a>.</p>
 
 <p>💻 I'm passionate about music and technology.</p>
 
